@@ -6,3 +6,4 @@
 "# Snake-game" 
 "# snake" 
 "# space-tourism" 
+"# rock-paper-scissors" 
